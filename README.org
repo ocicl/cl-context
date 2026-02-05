@@ -1,0 +1,10 @@
+* cl-context
+
+Context propagation library for Common Lisp - deadlines, cancellation, and request-scoped values.
+
+|---------+------------------------------------------------------|
+| source  | git:https://github.com/atgreen/cl-context.git       |
+| commit  | 10b2b82                                              |
+| systems | cl-context                                           |
+|---------+------------------------------------------------------|
+
