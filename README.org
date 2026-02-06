@@ -4,7 +4,7 @@ Context propagation library for Common Lisp - deadlines, cancellation, and reque
 
 |---------+------------------------------------------------------|
 | source  | git:https://github.com/atgreen/cl-context.git       |
-| commit  | a0c9e7f                                              |
+| commit  | 8b59e63                                              |
 | systems | cl-context                                           |
 |---------+------------------------------------------------------|
 
